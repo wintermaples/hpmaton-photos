@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "updated": "2026-09-25",
+  "photos": [
+    {
+      "id": "kominka-01",
+      "title": "古民家の外観（テスト用の無地）",
+      "file": "photos/kominka-01.jpg",
+      "thumb": "thumbs/kominka-01.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 12209,
+      "tags": [
+        "外観",
+        "木造",
+        "和風",
+        "住宅"
+      ],
+      "purpose": [
+        "hero",
+        "band"
+      ],
+      "industry": [
+        "koumuten"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "house-02",
+      "title": "木造の家の外観（テスト用の無地）",
+      "file": "photos/house-02.jpg",
+      "thumb": "thumbs/house-02.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 15595,
+      "tags": [
+        "外観",
+        "木造",
+        "住宅",
+        "新築"
+      ],
+      "purpose": [
+        "hero",
+        "band"
+      ],
+      "industry": [
+        "koumuten"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "kitchen-03",
+      "title": "明るい台所（テスト用の無地）",
+      "file": "photos/kitchen-03.jpg",
+      "thumb": "thumbs/kitchen-03.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 12926,
+      "tags": [
+        "室内",
+        "台所",
+        "リフォーム"
+      ],
+      "purpose": [
+        "hero",
+        "decor"
+      ],
+      "industry": [
+        "koumuten"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "wood-04",
+      "title": "木目の壁（テスト用の無地）",
+      "file": "photos/wood-04.jpg",
+      "thumb": "thumbs/wood-04.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 28228,
+      "tags": [
+        "木目",
+        "飾り",
+        "背景"
+      ],
+      "purpose": [
+        "band",
+        "decor"
+      ],
+      "industry": [
+        "koumuten"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    }
+  ]
+}
