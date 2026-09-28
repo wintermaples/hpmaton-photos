@@ -15,7 +15,7 @@ GitHub Pages で配る。このフォルダは公開リポジトリ `wintermaple
 1. リポジトリの Settings → Pages で、`main` ブランチの `/ (root)` を公開する（`.nojekyll` を置いてあるので、ファイルはそのまま配られる）。
 2. ブラウザで `https://wintermaples.github.io/hpmaton-photos/index.json` が開けることを確かめる（JSON がそのまま表示される）。
 
-hp-core の `packages/hp-core/server/design/photos.js` の `LIBRARY_URL` はこの URL になっている。別の場所で試すときは環境変数 `HP_PHOTO_LIBRARY` に一覧の URL を入れる。本番の置き場所は W2 までに決める（HPMaton の `docs/mvp-plan.md` 8b 章 Q24）。
+hp-core の `packages/hp-core/server/design/photos.js` の `LIBRARY_URL` はこの URL になっている。別の場所で試すときは環境変数 `HP_PHOTO_LIBRARY` に一覧の URL を入れる。本番の置き場所は未定（HPMaton の計画書で決める）。
 
 写真の権利は当社にある。このリポジトリは HPMaton の仕組みで配るための物で、ほかの用途での利用は認めない。
 
