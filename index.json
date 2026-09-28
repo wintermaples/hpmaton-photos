@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25",
+  "updated": "2026-09-28",
   "photos": [
     {
       "id": "kominka-01",
@@ -101,6 +101,215 @@
       ],
       "industry": [
         "koumuten"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "noren-01",
+      "title": "のれんと店先（テスト用の無地）",
+      "file": "photos/noren-01.jpg",
+      "thumb": "thumbs/noren-01.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 2818,
+      "tags": [
+        "外観",
+        "のれん",
+        "和食",
+        "店先"
+      ],
+      "purpose": [
+        "hero",
+        "band"
+      ],
+      "industry": [
+        "inshoku"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "teishoku-02",
+      "title": "定食の写真（テスト用の無地）",
+      "file": "photos/teishoku-02.jpg",
+      "thumb": "thumbs/teishoku-02.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 2818,
+      "tags": [
+        "料理",
+        "定食",
+        "和食"
+      ],
+      "purpose": [
+        "hero",
+        "decor"
+      ],
+      "industry": [
+        "inshoku"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "tennai-03",
+      "title": "店内のようす（テスト用の無地）",
+      "file": "photos/tennai-03.jpg",
+      "thumb": "thumbs/tennai-03.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 2818,
+      "tags": [
+        "店内",
+        "座敷",
+        "カウンター"
+      ],
+      "purpose": [
+        "hero",
+        "band"
+      ],
+      "industry": [
+        "inshoku"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "kizara-04",
+      "title": "木の皿と箸（テスト用の無地）",
+      "file": "photos/kizara-04.jpg",
+      "thumb": "thumbs/kizara-04.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 2818,
+      "tags": [
+        "飾り",
+        "木",
+        "背景"
+      ],
+      "purpose": [
+        "band",
+        "decor"
+      ],
+      "industry": [
+        "inshoku"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "uketsuke-01",
+      "title": "受付と待合（テスト用の無地）",
+      "file": "photos/uketsuke-01.jpg",
+      "thumb": "thumbs/uketsuke-01.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 2819,
+      "tags": [
+        "院内",
+        "受付",
+        "待合"
+      ],
+      "purpose": [
+        "hero",
+        "band"
+      ],
+      "industry": [
+        "seitai"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "sejutsu-02",
+      "title": "施術室のベッド（テスト用の無地）",
+      "file": "photos/sejutsu-02.jpg",
+      "thumb": "thumbs/sejutsu-02.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 2818,
+      "tags": [
+        "院内",
+        "施術室",
+        "清潔"
+      ],
+      "purpose": [
+        "hero",
+        "band"
+      ],
+      "industry": [
+        "seitai"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "midori-03",
+      "title": "観葉植物と窓（テスト用の無地）",
+      "file": "photos/midori-03.jpg",
+      "thumb": "thumbs/midori-03.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 2818,
+      "tags": [
+        "飾り",
+        "観葉植物",
+        "窓"
+      ],
+      "purpose": [
+        "hero",
+        "decor"
+      ],
+      "industry": [
+        "seitai"
+      ],
+      "source": "hpmaton",
+      "source_url": "",
+      "author": "HPMaton（テスト用の画像）",
+      "license": "当社の権利（テスト用の無地の画像。実際の写真に差し替える）",
+      "attribution_required": false
+    },
+    {
+      "id": "towel-04",
+      "title": "たたんだタオル（テスト用の無地）",
+      "file": "photos/towel-04.jpg",
+      "thumb": "thumbs/towel-04.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 2819,
+      "tags": [
+        "飾り",
+        "タオル",
+        "背景"
+      ],
+      "purpose": [
+        "band",
+        "decor"
+      ],
+      "industry": [
+        "seitai"
       ],
       "source": "hpmaton",
       "source_url": "",
